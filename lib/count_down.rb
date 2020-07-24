@@ -6,3 +6,4 @@ while hny_num >= 1 do
   hny_num -= 1
 end
   puts "Happy New Year!"
+end
