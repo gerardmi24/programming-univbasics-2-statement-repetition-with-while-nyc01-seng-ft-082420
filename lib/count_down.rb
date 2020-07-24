@@ -7,4 +7,3 @@ while newyear_num >= 1 do
   newyear_num -= 1
 end
   puts "Happy New Year!"
-
